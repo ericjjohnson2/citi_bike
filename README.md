@@ -27,9 +27,9 @@ This project aims to aggregate data from the Citi Bike Trip History Logs to unco
 
 
 ## Project Structure
-citi_bike_challenge/
-│
-├── data/ # Directory for raw and processed data
-├── notebooks/ # Jupyter notebooks for exploration and analysis
-├── visualizations/ # Tableau visualization files and related resources
+citi_bike_challenge/<br>
+│<br>
+├── data/ # Directory for raw and processed data<br>
+├── notebooks/ # Jupyter notebooks for exploration and analysis<br>
+├── visualizations/ # Tableau visualization files and related resources<br>
 └── README.md
