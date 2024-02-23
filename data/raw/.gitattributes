@@ -1,0 +1,13 @@
+JC-202305-citibike-tripdata.csv filter=lfs diff=lfs merge=lfs -text
+JC-202308-citibike-tripdata.csv filter=lfs diff=lfs merge=lfs -text
+JC-202310-citibike-tripdata.csv filter=lfs diff=lfs merge=lfs -text
+JC-202311-citibike-tripdata.csv filter=lfs diff=lfs merge=lfs -text
+JC-202301-citibike-tripdata.csv filter=lfs diff=lfs merge=lfs -text
+JC-202303-citibike-tripdata.csv filter=lfs diff=lfs merge=lfs -text
+JC-202306-citibike-tripdata.csv filter=lfs diff=lfs merge=lfs -text
+JC-202307-citibike-tripdata.csv filter=lfs diff=lfs merge=lfs -text
+JC-202309-citibike-tripdata.csv filter=lfs diff=lfs merge=lfs -text
+JC-202312-citibike-tripdata.csv filter=lfs diff=lfs merge=lfs -text
+JC-202302-citibike-tripdata.csv filter=lfs diff=lfs merge=lfs -text
+JC-202304-citibike-tripdata.csv filter=lfs diff=lfs merge=lfs -text
+*.csv filter=lfs diff=lfs merge=lfs -text
